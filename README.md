@@ -1,4 +1,5 @@
 # ZDevice
+# vesion 2.0
 
 ZDevice is a Ruby DSL for assembling arbitrary ZeroMQ routing devices, with support for the ZDCF configuration syntax.
 
